@@ -1,17 +1,18 @@
-#1056 Project 3: Create Your Own Scaffold
+<h1>1056 Project 3: Create Your Own Scaffold</h1>
 
-**ASSIGNMENT DESCRIPTION**
-We are creating our own website scaffold based on our anglers.org PSD wireframes. Using our blocked wireframes, we will be coding those basic blocks out on our webpages to get the basic site layout positioned before we flesh out the design.
+<br>ASSIGNMENT DESCRIPTION<br>
+<p>We are creating our own website scaffold based on our anglers.org PSD wireframes. Using our blocked wireframes, we will be coding those basic blocks out on our webpages to get the basic site layout positioned before we flesh out the design.</p>
+<p>The idea behind this exercise is to prepare us further for the next step in our midterm project and to practice good behaviour practises for web development.</p>
 
-The idea behind this exercise is to prepare us further for the next step in our midterm project and to practice good behaviour practises for web development.
+<h3>Contributing</h3>
+<p>Closed repository developed by Kateh Mayman and and Mikka Azores. Only approved contributors may edit.</p>
 
-###Contributing
-Closed repository developed by Kateh Mayman and and Mikka Azores. Only approved contributors may edit.
+<h3>Tools Used</h3>
+  <ul>
+    <li>Adobe Photoshop CC</li>
+    <li>Atom w/ Emmet</li>
+    <li>HTML & CSS</li>
+  </ul>
 
-###Tools Used
-- Adobe Photoshop CC
-- Atom w/ Emmet
-- HTML & CSS
-
-###License
+<h3>License</h3>
 ICS
