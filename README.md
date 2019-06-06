@@ -1,5 +1,5 @@
 <h1>1056 Project 3: Create Your Own Scaffold</h1>
-<h3>ASSIGNMENT DESCRIPTION<h3>
+<h3>ASSIGNMENT DESCRIPTION</h3>
 <p>We are creating our own website scaffold based on our anglers.org PSD wireframes. Using our blocked wireframes, we will be coding those basic blocks out on our webpages to get the basic site layout positioned before we flesh out the design.</p>
 <p>The idea behind this exercise is to prepare us further for the next step in our midterm project and to practice good behaviour practises for web development.</p>
 
